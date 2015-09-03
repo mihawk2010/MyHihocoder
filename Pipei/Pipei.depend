@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1428395389 source:/home/ben/c++/hihocoder/Pipei/main.cpp
+	<iostream>
+	<vector>
+	<stack>
+	<list>
+

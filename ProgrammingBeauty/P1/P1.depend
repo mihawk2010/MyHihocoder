@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1429236374 source:/home/ben/c++/hihocoder/ProgrammingBeauty/P1/main.cpp
+	<iostream>
+	<string>
+	<map>
+	<stdlib.h>
+	<stdio.h>
+

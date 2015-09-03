@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1429947248 source:/home/ben/c++/hihocoder/ProgrammingBeauty/zuidaduliji/main.cpp
+	<queue>
+	<stdio.h>
+	<string.h>
+

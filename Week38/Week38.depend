@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1427080054 source:/home/ben/c++/hihocoder/Week38/main.cpp
+	<cstdlib>
+	<cctype>
+	<cstring>
+	<cstdio>
+	<cmath>
+	<algorithm>
+	<vector>
+	<string>
+	<iostream>
+	<sstream>
+	<map>
+	<set>
+	<queue>
+	<stack>
+	<fstream>
+	<numeric>
+	<iomanip>
+	<bitset>
+	<list>
+	<stdexcept>
+	<functional>
+	<utility>
+	<ctime>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1441170335 source:/home/ben/c++/hihocoder/Week61/Combination Lock/main.cpp
+	<cstdio>
+	<string>
+	<iostream>
+

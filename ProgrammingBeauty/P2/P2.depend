@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1429249905 source:/home/ben/c++/hihocoder/ProgrammingBeauty/P2/main.cpp
+	<iostream>
+	<string>
+	<vector>
+
